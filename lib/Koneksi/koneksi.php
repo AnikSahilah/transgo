@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 class koneksi
 {
     private $host="localhost";
@@ -19,4 +19,4 @@ class koneksi
     return $this->koneksi;
     }
 }
-?>
+?> -->

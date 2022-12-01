@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 header('Access-Control-Allow-Origin: *');
 $conn = new mysqli("Localhost", "root", "transgonew");
 mysqli_connect_errno();
@@ -30,4 +30,4 @@ if($jml>0) {
     $json['respon_message']= "Username atau Password Salah";
 }
 
-header('Content-Type: aplication/json');
+header('Content-Type: aplication/json'); -->
